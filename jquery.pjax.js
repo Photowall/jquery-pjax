@@ -1,3 +1,7 @@
+// PHOTOWALL NOTE:
+// A fork located on https://github.com/Photowall/jquery-pjax is used for this functionality.
+// - scrollTo option can be used with a selector instead of just a number.
+
 /*!
  * Copyright 2012, Chris Wanstrath
  * Released under the MIT License
